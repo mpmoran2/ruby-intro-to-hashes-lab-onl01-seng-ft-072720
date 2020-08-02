@@ -37,8 +37,8 @@ def monopoly_with_third_tier
       :shortline =>
         
       
-      {
-        "mortgage_value"=>"$800"
+      {"mortgage_value"=>"$800"
+        
       }
 	  }
 	}
